@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}
+header{
+	background-color:#9A1919;
+  padding: 30px 0px 40px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.nav-link{
+	background-color: #CDCDBC;
+	border-radius: 5%;
+	text-indent: 1px;
+	padding-right: 3px;
+	box-shadow: 0px 3px 0px #A6A697;
+	
+}
+
+.nav-link:hover{
+	box-shadow: 0px 0px 0px;
+	padding-top: 7px;
+	
+}
+#searchbox{
+	position: relative;
+	left: 190px;
+	width: 70%
+}
+.nav-item{
+	padding-left: 1%;
+	border-radius:10%;
+	
+
+}
+
+.btn{
+	background-color: white;
+	
+	
+}
+.button .btn-primary{
+	position: relative;
+	left: 350px;
+	background-color: transparent;
+	font-size: 20px;
+}
+.button2 .btn-primary{
+	position: relative;
+	left: 360px;
+	background-color: transparent;
+	font-size: 20px;
+}
+
+.boton2{
+	text-align: right;
+
+}
+
+#button {
+ padding: 0;
+ }
+
+.button{
+ display: inline;
+ padding: 0;
+	
+ }
+#header-nav{
+padding: 5px 0;
+background-color: transparent;
+}
+#hartando{
+	background-color: #E7A80B;
+	padding-top: 8%;
+	padding-bottom: 8%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.fondoblanco{
+	background-color: #FFFFFF;
+	border-radius: 20px;
+
+}
+#hartando h1{
+	padding-top: 4%;
+	padding-bottom: 3%;
+}
+#hartando p{
+	font-size: 22px;
+}
+
+hr.rounded {
+margin: 5%;
+  border-top: 2px solid #000;
+  border-radius: 5px;
+}
+
+#hartando h5{
+	font-weight: 400;
+	font-size: 18px;
+}
+#hartando h4{
+	padding-top: 18%;
+	padding-left: 5%;
+	padding-bottom: 10%;
+	font-size: 20px;
+}
+#hartando h3{
+	text-align: right;
+}
+#hartando p{
+	text-align: right;
+	font-weight: lighter;
+	padding-bottom: 3%;
+}
+footer{
+	background-color: #9A1919;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+footer h1{
+	text-align: right;
+	font-size: 30px;
+}
+
+.list-social i{
+	background-color: #9A1919;
+	color: #fff;
+	text-align: center;
+}
+
+.list-social i:hover{
+	background-color: #1F274A;
+}

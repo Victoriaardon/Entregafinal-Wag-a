@@ -1,0 +1,184 @@
+body{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: black;
+}
+header{
+	background-color:#9A1919;
+  padding: 30px 0px 40px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.nav-link{
+	background-color: #CDCDBC;
+	border-radius: 5%;
+	text-indent: 1px;
+	padding-right: 3px;
+	box-shadow: 0px 3px 0px #A6A697;
+}
+.nav-link:hover{
+	box-shadow: 0px 0px 0px;
+	padding-top: 7px;
+	
+}
+.nav-item{
+	padding-left: 1%;
+	border-radius:10%;
+	
+
+}
+.boton2{
+	text-align: right;
+}
+
+#button {
+ padding: 0;
+ }
+
+.button{
+ display: inline;
+ padding: 0;
+	
+ }
+#searchbox{
+	position: relative;
+	left: 190px;
+	width: 70%;
+}
+#searchbox2{
+	position:inherit;
+	left: 350px;
+	width: 70%;	
+	color: #9e9e9e;
+}	 
+
+#header-nav{
+padding: 5px 0;
+background-color: transparent;
+}
+#categoria{
+	margin-top: 10px;
+	position: absolute;
+	left: 450px;
+	width: 10%;
+	background-color: #cdcdcb;
+}
+#depa{
+	margin-top: 10px;
+	position: absolute;
+	left: 800px;
+	width: 10%;
+	background-color: #cdcdcb;
+}
+.button .btn-primary{
+	position: relative;
+	left: 350px;
+	background-color: transparent;
+	font-size: 20px;
+}
+.button2 .btn-primary{
+	position: relative;
+	left: 390px;
+	background-color: transparent;
+	font-size: 20px;
+}
+#searchbox{
+	position: relative;
+	left: 190px;
+	width: 70%
+}
+#header-nav{
+padding: 5px 0;
+background-color: transparent;
+}
+.img-fluid{
+	width: 70px;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-bottom: 30px;
+}
+#settings{
+	color: aliceblue;
+}
+.fondo{
+	background-color: #E7A80B;
+}
+.cajaform{
+	background-color: #FFFFFF;
+	border-radius:3%;
+	padding: 10%;
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.fotoredonda{
+	width: 200px;
+	height:200px;
+	border-radius: 150px;
+	padding: 0;
+	margin: 0px;
+}
+
+.textoempren h2 {
+	margin-bottom:20px;
+	margin-left:0px;
+	font-size: 50px;
+	margin-right: 0px;
+	
+	
+}
+
+.textoempren h3 {
+	color: #9E9E9E;
+	font-size: 20px;
+	margin-bottom: 0px;
+	margin-top: 30px;
+}
+
+.textoempren p {
+	margin-bottom:10px;
+	margin-left: 0px;
+	font-size: 19px;
+	margin-right: 0px;
+	
+	
+}
+
+.masinfo .btn-primary{
+	border: 0;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	background-color: #1F274A;
+	position: absolute;
+	top: 250px;
+	right: 20px;
+	
+}
+
+
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+
+
+footer{
+	background-color: #9A1919;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#siguenos{
+	background-color: #9A1919;
+	text-align: right;
+	font-size: 30px;
+}
+
